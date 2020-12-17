@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+hi, i'm onur, a software engineer currently working in ankara, turkey
 
-### More Information
+i'm interested in emulation, computer graphics and game development.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+you can hit me up at [onuratasaritas@gmail.com](mailto:email@domain.com)
